@@ -10,7 +10,8 @@ Switzerland : https://download.geofabrik.de/europe/switzerland.html
 
 ### Data Processing:  
 
-Installing OSMConvert (https://markiliffe.wordpress.com/tag/osmconvert/) :
+Installing OSMConvert (https://markiliffe.wordpress.com/tag/osmconvert/) :  
+
 ``` sudo apt-get install osmctools ```
 
 Converting .osm.pbf to .osm file:
